@@ -41,12 +41,6 @@ namespace Library_Management_System
         {
             txtPass.PasswordChar = '*';
         }
-
-        private void txtUsername_MouseEnter(object sender, EventArgs e)
-        {
-            
-
-        }
         private void txtLoginID_MouseClick(object sender, MouseEventArgs e)
         {
             if (txtLoginID.Text == "Login ID")
@@ -63,6 +57,11 @@ namespace Library_Management_System
                 txtPass.Clear();
                 
             }
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
