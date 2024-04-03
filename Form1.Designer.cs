@@ -116,9 +116,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(25, 64);
+            this.label4.Location = new System.Drawing.Point(23, 64);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(530, 39);
+            this.label4.Size = new System.Drawing.Size(515, 38);
             this.label4.TabIndex = 9;
             this.label4.Text = "Welcome to KIIT Digital Library";
             this.label4.Click += new System.EventHandler(this.label4_Click);
