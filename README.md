@@ -1,4 +1,4 @@
-# Library Management System
+# KIIT Library Management System
 
 The "KIIT Library Management System" is a robust Full Stack Application developed specifically for KIIT college, leveraging the power of the .NET Framework, C#.NET, Windows Forms, and MS SQL Server. This application represents a comprehensive solution for managing the library's extensive data, designed with a user-friendly interface and a powerful backend to handle various library management tasks efficiently.
 
