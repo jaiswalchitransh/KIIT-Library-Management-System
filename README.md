@@ -34,3 +34,7 @@ University library officials can log in to the portal using their KIIT email ID 
 
 ## Contribution
 This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
+Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
+- Fork the repository
+- Make your changes
+- Submit a pull request
