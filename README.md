@@ -14,10 +14,11 @@ The "KIIT Library Management System" is a robust Full Stack Application develope
 
 ## Installation
 To run the project in Microsoft Visual Studio 2022:
-1. Clone the repository.
-2. Open the solution file in Visual Studio 2022.
-3. Restore any NuGet packages if prompted.
-4. Build and run the application.
+1. Clone or download the repository to your local machine.
+      - git clone <https://github.com/jaiswalchitransh/KIIT-Library-Management-System>
+3. Open the solution file in Visual Studio 2022.
+4. Restore any NuGet packages if prompted.
+5. Build and run the application.
 
 
 ## Usage
