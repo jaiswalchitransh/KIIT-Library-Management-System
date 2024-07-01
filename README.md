@@ -33,7 +33,7 @@ University library officials can log in to the portal using their KIIT email ID 
 - **Functionality**: Add new books and students, manage book issues and returns, view detailed records.
 
 ## Contribution
-This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
+I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
 - Fork the repository
 - Make your changes
