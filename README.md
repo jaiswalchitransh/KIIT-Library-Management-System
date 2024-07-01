@@ -1,9 +1,36 @@
 # KIIT Library Management System
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contribution](#contribution)
+
+## Project Overview
 The "KIIT Library Management System" is a robust Full Stack Application developed specifically for KIIT University, leveraging the power of the .NET Framework, C#.NET, Windows Forms, and MS SQL Server. This application represents a comprehensive solution for managing the library's extensive data, designed with a user-friendly interface and a powerful backend to handle various library management tasks efficiently.
 
-The backend, developed using C#, integrates seamlessly with the Windows Forms frontend, providing a smooth and responsive user experience. At the core of the application is its ability to execute a wide range of SQL queries to interact with the MS SQL Server database. These queries enable the retrieval and manipulation of critical data such as book details, student information, issued book records, and return book details. This ensures that all library operations are accurately recorded and easily accessible.
+## Installation
+To run the project in Microsoft Visual Studio 2022:
+1. Clone the repository.
+2. Open the solution file in Visual Studio 2022.
+3. Restore any NuGet packages if prompted.
+4. Build and run the application.
 
-One of the standout features of the KIIT Library Management System is its secure login functionality, which allows users to access the application using their KIIT email ID and password. This security measure ensures that only authorized users can interact with the system. Once logged in, users are presented with a suite of features tailored to meet the needs of KIIT students. These features include the ability to add new books and students to the database, view detailed information about existing books and students, issue books to students, manage the return of books, and view records of issued and returned books.
+## Usage
+University library officials can log in to the portal using their KIIT email ID and password. This security measure ensures that only authorized users can interact with the system. Once logged in, users are presented with a suite of features tailored to meet the needs of KIIT students. These features include:
+- Adding new books and students to the database.
+- Viewing detailed information about existing books and students.
+- Issuing books to students.
+- Managing the return of books.
+- Viewing records of issued and returned books.
 
-This application not only simplifies the process of library management but also enhances the overall efficiency and accuracy of data handling. By providing a centralized platform for all library-related activities, the KIIT Library Management System is an invaluable tool for both students and library staff, ensuring a well-organized and accessible library environment.
+## Features
+- **Backend**: Developed using C#, integrates seamlessly with Windows Forms frontend.
+- **Database**: Utilizes MS SQL Server for storing and managing extensive library data.
+- **SQL Queries**: Executes a wide range of queries for interacting with the database.
+- **Secure Login**: Uses KIIT email ID and password for authorized access.
+- **Functionality**: Add new books and students, manage book issues and returns, view detailed records.
+
+## Contribution
+This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
