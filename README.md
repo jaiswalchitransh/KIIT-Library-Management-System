@@ -11,6 +11,9 @@
 ## Project Overview
 The "KIIT Library Management System" is a robust Full Stack Application developed specifically for KIIT University, leveraging the power of the .NET Framework, C#.NET, Windows Forms, and MS SQL Server. This application represents a comprehensive solution for managing the library's extensive data, designed with a user-friendly interface and a powerful backend to handle various library management tasks efficiently.
 
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%201.png)
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%202.png)
 
 ## Installation
 To run the project in Microsoft Visual Studio 2022:
