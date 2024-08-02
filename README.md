@@ -13,6 +13,7 @@ The "KIIT Library Management System" is a robust Full Stack Application develope
 
 ![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%201.png)
 
+
 ![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%202.png)
 
 ## Installation
@@ -28,11 +29,26 @@ To run the project in Microsoft Visual Studio 2022:
 
 ## Usage
 University library officials can log in to the portal using their KIIT email ID and password. This security measure ensures that only authorized users can interact with the system. Once logged in, users are presented with a suite of features tailored to meet the needs of KIIT students. These features include:
+
 - Adding new books and students to the database.
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%203.png)
+
 - Viewing detailed information about existing books and students.
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%209.png)
+  
 - Issuing books to students.
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%205.png)
+  
 - Managing the return of books.
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%206.png)
+
 - Viewing records of issued and returned books.
+
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%207.png)
 
 
 ## Features
