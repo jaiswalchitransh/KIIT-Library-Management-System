@@ -36,6 +36,8 @@ University library officials can log in to the portal using their KIIT email ID 
 
 - Viewing detailed information about existing books and students.
 
+![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%208.png)
+
 ![alt text](https://github.com/jaiswalchitransh/KIIT-Library-Management-System/blob/master/Sample%20Output/Sample%20Output%209.png)
   
 - Issuing books to students.
