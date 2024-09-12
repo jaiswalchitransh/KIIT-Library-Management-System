@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Library Management System.exe" version="1.0.0.1" publicKeyToken="61445ebbf2e197ec" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Library Management System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Library Management System.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Library Management System.exe" size="4041664">
+      <assemblyIdentity name="Library Management System" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>A8dhtZl6/68LbBX8HNMy9jI1Ir+5UXKmCLpstQnFJgM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Library Management System.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=BT-2105617\KIIT" issuerKeyHash="752c9fab038d1d22108c72b524ab1533cf5c86a2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IFeljnwjbwdV48rQVoVqTywqqM65Zd9OXTN3QZIXeL0=</DigestValue></Reference></SignedInfo><SignatureValue>Fahg/1V+ud+uJAfvKXW+yDdWbdXkBNWNSgfWY5CUpc/joLiFc2pHO/4kj8RGJQ+TxXYkX4c2DU4rK4z/1Jv0QA8OBpsNWIl73ZPnNqwY7PZJIgB5fS7b5BQUOHv7lI2UrNaqhIS+AXiJxquYD2hAZIMAYio0g54mqcVtXXr8+w0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>v6nXjVjE+9OmRYKmGiCvVxHS9s1dIvIWjA/rXBUag/XXtNepCK8bCxytx2RXf8DNSLdNSsl/zRHKdbuqBb01E3LZEgiWXYEZvIgQ0zgKwkdeCuBdvh+E1d121yexjx2fBn27wUp4n1YEH+BFIvNV/dAEVIXfWs5tHBpfqLOF0Lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bd7817924177335d4edf65b9cea82a2c4f6a8556d0cae355076f237c8ea55720" Description="" Url=""><as:assemblyIdentity name="Library Management System.exe" version="1.0.0.1" publicKeyToken="61445ebbf2e197ec" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BT-2105617\KIIT</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>le7EmqRGZiE8vBaVjGtmw6XILAucGc+aYMAwObOgaGw=</DigestValue></Reference></SignedInfo><SignatureValue>FmmVqJODmItZRIaana+oVBAQZzRDu8rPRFHGPI8LON7b0Fofcpeu8FOB/OMaDpA6EOWDJ/hcdrXWl4MspDcuI39h+2Dm+t68jpUYwJgT1mX95q41tleSnRo1OHGnTpKsdK3E6oXg4mqhsM8ABeZd66JpaRfFE7UnZPCIEL+HVRc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>v6nXjVjE+9OmRYKmGiCvVxHS9s1dIvIWjA/rXBUag/XXtNepCK8bCxytx2RXf8DNSLdNSsl/zRHKdbuqBb01E3LZEgiWXYEZvIgQ0zgKwkdeCuBdvh+E1d121yexjx2fBn27wUp4n1YEH+BFIvNV/dAEVIXfWs5tHBpfqLOF0Lk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQHNTt8NAdMKpHeKIiQ73MijANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4AQgBUAC0AMgAxADAANQA2ADEANwBcAEsASQBJAFQwHhcNMjQwOTEyMDgzNjE3WhcNMjUwOTEyMTQzNjE3WjApMScwJQYDVQQDHh4AQgBUAC0AMgAxADAANQA2ADEANwBcAEsASQBJAFQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL+p141YxPvTpkWCphogr1cR0vbNXSLyFowP61wVGoP117TXqQivGwscrcdkV3/AzUi3TUrJf80RynW7qgW9NRNy2RIIll2BGbyIENM4CsJHXgrgXb4fhNXddtcnsY8dnwZ9u8FKeJ9WBB/gRSLzVf3QBFSF31rObRwaX6izhdC5AgMBAAEwDQYJKoZIhvcNAQELBQADgYEApg50kTQFxOQ64GHVNTIHygwA8ZYG0oBQKtXDKLtV2Cw09U+VUU3ODWeHuDdJ1nthuMnMliuf8KEs1+VMBygp9T7BuydjeWpjF50up3XN5k1PW8vWwYM7IALyFxWmGXg2/W+I4h/nF+j6Z1uFZZE5mkjJ66e0N/wkhgGw7kZqeRA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
